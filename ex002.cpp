@@ -31,6 +31,10 @@ public:
     cout << "Volume: " << b.Volume() << endl;
 
     Box b2 {5};
+    cout << "Box b2: ";
+    b2.printDimensions();
+    cout << "Volume: " << b2.Volume() << endl;
+    
     return 0;
  }
  
