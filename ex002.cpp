@@ -30,7 +30,7 @@ public:
     b.printDimensions();
     cout << "Volume: " << b.Volume() << endl;
 
-    Box b2 {5};
+    
     return 0;
  }
  
