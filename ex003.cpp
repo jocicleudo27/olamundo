@@ -29,7 +29,7 @@ int main() {
     fugitivo.inicializa("O Fugitivo", "Harison Ford", "Tommy Lee Chibata");
     insone.inicializa("Insone em Seattle", "Tom Hanks", "Marg Ariana");
     cout << "Os dois ultimos filmes a que assisti foram: " <<fugitivo.nome << " e " <<insone.nome << endl;
-    cout << "Achei que o" << fugitivo.primeiro_astro << " estava otimo!" << endl;
+    cout << "Achei que o " << fugitivo.primeiro_astro << " estava otimo!" << endl;
 
     return 0;
 }
